@@ -1,2 +1,2 @@
 # SeijinD
-## Notes
+## Notes For Programming.
