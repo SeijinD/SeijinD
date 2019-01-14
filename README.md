@@ -1,1 +1,2 @@
 # SeijinD
+## Notes
