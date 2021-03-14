@@ -1,7 +1,7 @@
 ### Hi, I'm George Kara([SeijinD](http://seijind.eu./en/index.html)) 👋
 
 ## I am Developer and undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
-### I am volontuer in IEEE IHU Student Branch (Thessaloniki) and Mentor in ΟΜΠΡΕΛΑ.
+### I am volontuer in IEEE IHU Student Branch (Thessaloniki) and iMentor in ΟΜΠΡΕΛΑ.
 
 ### Connect with me:
 <!-- Linkedin Link -->
