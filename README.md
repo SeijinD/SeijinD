@@ -10,11 +10,8 @@
 [<img align="left" alt="SeijinD | Dev" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
 <!-- Twitter Link -->
 [<img align="left" alt="SeijinD | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-## Languages and Tools: :toolbox:
  
-<br />
+## Languages and Tools: :toolbox:
 
 ### Languages :gear: 
 <!-- Kotlin Image -->
@@ -24,12 +21,9 @@
 <!-- Java Image -->
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<br />
 
 ### Tools :wrench:
 
-
-<br />
 
 ### Databases :chains:
  <!-- Firebase Image -->
@@ -39,7 +33,6 @@
 <!-- MongoDB Image -->
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
  
- <br />
  
  <!-- Links for the webpages and Social Medias -->
 [linkedin]: https://www.linkedin.com/in/seijind
