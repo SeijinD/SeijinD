@@ -51,7 +51,9 @@
 <!-- MongoDB Image -->
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-![](https://komarev.com/ghpvc/?seijind&color=blueviolet&label=VIEWS)
+</br> </br> </br> 
+
+![](https://komarev.com/ghpvc/?username=seijind&color=blueviolet&label=Views&style=plastic)
 
  
  <!-- Links for the webpages and Social Medias -->
