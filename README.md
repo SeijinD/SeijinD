@@ -5,11 +5,11 @@
 
 ### Connect with me:
 <!-- Linkedin Link -->
-[<img align="left" alt="SeijinD | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SeijinD | LinkedIn" width="35px" src="Icons/linkedin.svg" />][linkedin]
 <!-- Dev Link -->
-[<img align="left" alt="SeijinD | Dev" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="SeijinD | Dev" width="35px" src="Icons/dev.svg" />][dev]
 <!-- Twitter Link -->
-[<img align="left" alt="SeijinD | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SeijinD | Twitter" width="35px" src="Icons/twitter.svg" />][twitter]
  
 </br>
 
