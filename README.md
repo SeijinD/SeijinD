@@ -7,7 +7,7 @@
 <!-- Linkedin Link -->
 [<img align="left" alt="SeijinD | LinkedIn" width="35px" src="Icons/linkedin.svg" />][linkedin]
 <!-- Dev Link -->
-[<img align="left" alt="SeijinD | Dev" width="35px" src="" />][dev]
+[<img align="left" alt="SeijinD | Dev" width="35px" src="Icons/dev.svg" />][dev]
 <!-- Twitter Link -->
 [<img align="left" alt="SeijinD | Twitter" width="35px" src="Icons/twitter.svg" />][twitter]
  
