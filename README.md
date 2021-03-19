@@ -1,9 +1,6 @@
 ### Hi, I'm George Kara([SeijinD](http://seijind.eu./en/index.html)) 👋
 
-## I am Developer and undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
-### I am volontuer in IEEE IHU Student Branch (Thessaloniki) and iMentor in ΟΜΠΡΕΛΑ.
-
-### Connect with me:
+#### Connect with me:
 <!-- Linkedin Link -->
 [<img align="left" alt="SeijinD | LinkedIn" width="40px" src="Icons/linkedin.svg" />][linkedin]
 <!-- Dev Link -->
@@ -11,16 +8,15 @@
 <!-- Twitter Link -->
 [<img align="left" alt="SeijinD | Twitter" width="40px" src="Icons/twitter.svg" />][twitter]
  
-</br>
+</br> </br>
 
-### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 1
-- 2
-- 3
+#### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- Mobile developer & .Net developer
+- Undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
+- Volontuer in IEEE IHU Student Branch (Thessaloniki) and iMentor in ΟΜΠΡΕΛΑ.
 
-</br>
 
-### Languages :gear: 
+#### Languages :gear: 
 <!-- Kotlin Image -->
 <img align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <!-- C# Image -->
@@ -28,9 +24,9 @@
 <!-- Java Image -->
 <img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-</br>
+</br> </br>
 
-### Tools :wrench:
+#### Tools :wrench:
 <!-- Android Studio Image -->
 <img align="left" alt="Android Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <!-- Visual Studio Image -->
@@ -44,9 +40,9 @@
 <!-- LATEX Image -->
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
-</br>
+</br> </br>
 
-### Databases :chains:
+#### Databases :chains:
  <!-- Firebase Image -->
 <img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
  <!-- MySQL Image -->
