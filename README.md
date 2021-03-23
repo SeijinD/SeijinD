@@ -11,7 +11,7 @@
 </br> </br>
 
 #### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Mobile developer & .Net developer
+- Junior Software Engineer (Mobile developer & .Net developer)
 - Undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 - Volontuer in IEEE IHU Student Branch (Thessaloniki) and iMentor in ΟΜΠΡΕΛΑ.
 
@@ -49,10 +49,12 @@
 #### Databases :chains:
  <!-- Firebase Image -->
 <img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
- <!-- MySQL Image -->
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <!-- MongoDB Image -->
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<!-- MySQL Image -->
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<!-- PostgreSQL Image -->
+<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 </br> </br> </br> 
 
