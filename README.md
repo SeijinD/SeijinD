@@ -11,7 +11,7 @@
 </br> </br>
 
 #### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Junior Software Engineer (Mobile developer & .Net developer)
+- Junior Software Engineer
 - Undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 - Volontuer in IEEE IHU Student Branch (Thessaloniki) and iMentor in ΟΜΠΡΕΛΑ.
 
