@@ -1,4 +1,4 @@
-### Hi, I'm George Kara([SeijinD](http://seijind.eu./en/index.html)) 👋
+### Hi, I'm George Karanikolas([SeijinD](http://seijind.eu./en/index.html)) 👋
 
 #### Connect with me:
 <!-- Linkedin Link -->
