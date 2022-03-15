@@ -2,13 +2,14 @@
 
 #### Connect with me:
 <!-- Linkedin Link -->
-[<img align="left" alt="SeijinD | LinkedIn" width="40px" src="Icons/linkedin.svg" />][linkedin]
-<!-- Dev Link -->
-[<img align="left" alt="SeijinD | Dev" width="42px" src="Icons/dev.png" />][dev]
-<!-- Twitter Link -->
-[<img align="left" alt="SeijinD | Twitter" width="40px" src="Icons/twitter.svg" />][twitter]
- 
-</br> </br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/seijind/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/seijind" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Telegram"/>
+  </a>
+</p>
 
 #### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Android Developer
