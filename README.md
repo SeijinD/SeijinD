@@ -13,7 +13,7 @@
 
 #### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 📱 Android Developer
-- 🎓  Undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
+- I am a graduate of the [Department of Informatics & Electronic Engineering](https://www.iee.ihu.gr/en/) at the [International Hellenic University](https://www.ihu.gr/) of Thessaloniki.
 
 
 #### Languages :gear: 
