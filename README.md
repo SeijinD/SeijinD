@@ -12,7 +12,7 @@
 </p>
 
 #### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 📱 Android Developer
+- 📱 Mobile Developer & Software Engineer
 - I am a graduate of the [Department of Informatics & Electronic Engineering](https://www.iee.ihu.gr/en/) at the [International Hellenic University](https://www.ihu.gr/) of Thessaloniki.
 
 
