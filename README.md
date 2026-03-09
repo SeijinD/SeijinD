@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://seijind.github.io/Images/profile.jpg" width="120" style="border-radius: 50%" alt="George Karanikolas"/>
-
 # George Karanikolas
 ### Mobile Developer & Software Engineer
 
