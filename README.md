@@ -1,67 +1,93 @@
-### Hi, I'm George Karanikolas([SeijinD](http://seijind.eu./en/index.html)) 👋
+<div align="center">
 
-#### Connect with me:
-<!-- Linkedin Link -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/seijind/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/seijind" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Telegram"/>
-  </a>
-</p>
+<img src="https://seijind.github.io/Images/profile.jpg" width="120" style="border-radius: 50%" alt="George Karanikolas"/>
 
-#### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 📱 Mobile Developer & Software Engineer
-- I am a graduate of the [Department of Informatics & Electronic Engineering](https://www.iee.ihu.gr/en/) at the [International Hellenic University](https://www.ihu.gr/) of Thessaloniki.
+# George Karanikolas
+### Mobile Developer & Software Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-seijind.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://seijind.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seijind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seijind/)
+[![Telegram](https://img.shields.io/badge/Telegram-seijind-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seijind)
 
-#### Languages :gear: 
-<!-- Kotlin Image -->
-<img align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<!-- C# Image -->
-<img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<!-- Java Image -->
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<!-- Python Image -->
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+</div>
 
-</br> </br>
+---
 
-#### Tools :wrench:
-<!-- Android Studio Image -->
-<img align="left" alt="Android Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<!-- Visual Studio Image -->
-<img align="left" alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<!-- Docker Image -->
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<!-- Maven Image -->
-<img align="left" alt="Maven" width="35px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/maven/maven.png" />
-<!-- Terminal Image -->
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-<!-- GitHub Image -->
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<!-- LATEX Image -->
-<img align="left" alt="LATEX" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+## 👨‍💻 About Me
 
-</br> </br>
+Hey! I'm George, an **Android Developer** based in **Thessaloniki, Greece** with 4+ years of professional experience building production-grade mobile apps.
 
-#### Databases :chains:
- <!-- Firebase Image -->
-<img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<!-- MongoDB Image -->
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<!-- MySQL Image -->
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!-- PostgreSQL Image -->
-<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+Currently working at **[Arx.Net](https://web.arx.net/)**, where I develop scalable Android apps using **Kotlin**, **Jetpack Compose**, and modern architectural patterns like **MVVM/MVI**.
 
-</br> </br> </br> 
+I'm passionate about clean architecture, high-performance UIs, and the ever-evolving Kotlin ecosystem — including **Kotlin Multiplatform (KMP)**.
 
-![](https://komarev.com/ghpvc/?username=seijind&color=blueviolet&label=Views&style=plastic)
+```kotlin
+val george = Developer(
+    name     = "George Karanikolas",
+    role     = "Android Developer",
+    location = "Thessaloniki, Greece",
+    focuses  = listOf("Jetpack Compose", "KMP", "Clean Architecture"),
+    currentlyExploring = "Kotlin Multiplatform"
+)
+```
 
- 
- <!-- Links for the webpages and Social Medias -->
-[linkedin]: https://www.linkedin.com/in/seijind
-[dev]: https://dev.to/seijind
-[twitter]: https://twitter.com/seijind
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### 🔧 Architecture & Libraries
+![MVVM](https://img.shields.io/badge/MVVM%2FMVI-0A0A0A?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt%2FKoin-DI-3DDC84?style=flat-square)
+![Retrofit](https://img.shields.io/badge/Retrofit%2FOkHttp-48B983?style=flat-square)
+![Room](https://img.shields.io/badge/Room%20DB-0A0A0A?style=flat-square)
+
+### 🗄️ Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-E91E63?style=flat-square&logo=kotlin&logoColor=white)
+
+### ⚙️ Tools
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**CM Free Rewards**](https://play.google.com/store/apps/details?id=eu.seijindemon.cmfreerewards) | 📱 Popular app with 1k+ organic installs for daily in-game rewards | Kotlin · Compose · UI/UX |
+| [**Salonika News**](https://github.com/SeijinD/Salonika-News) | 📰 Local news app with user auth and article submissions | Kotlin · Firebase · Navigation |
+| [**Weather MVVM**](https://github.com/SeijinD/Weather) | 🌤️ Clean architecture weather app consuming public REST API | Kotlin · MVVM · Retrofit2 · Coroutines |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SeijinD&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=seijind&color=7F52FF&label=Profile+Views&style=flat-square)
+
+**Let's build something great together → [seijind.github.io](https://seijind.github.io)**
+
+</div>
