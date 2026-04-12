@@ -11,13 +11,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hey! I'm George, an **Android Developer** based in **Thessaloniki, Greece** with 4+ years of professional experience building production-grade mobile apps.
+**Android Developer** with 5+ years of experience delivering scalable, production-grade mobile applications. Based in **Thessaloniki, Greece**, I specialize in building high-performance and maintainable Android solutions using **Kotlin** and **Jetpack Compose**.
 
-Currently working at **[Arx.Net](https://web.arx.net/)**, where I develop scalable Android apps using **Kotlin**, **Jetpack Compose**, and modern architectural patterns like **MVVM/MVI**.
+Currently contributing to **Arx.Net**, where I design and develop robust applications following **Clean Architecture** principles and modern patterns such as **MVVM** and **MVI**. I focus on delivering business value through scalable architectures, high-quality code, and user-centric mobile experiences.
 
-I'm passionate about clean architecture, high-performance UIs, and the ever-evolving Kotlin ecosystem — including **Kotlin Multiplatform (KMP)**.
+Passionate about the evolving **Kotlin ecosystem**, I actively explore **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)** to enable cross-platform innovation and shared business logic.
 
 ```kotlin
 val george = Developer(
