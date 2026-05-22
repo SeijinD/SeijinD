@@ -1,7 +1,7 @@
 <div align="center">
 
 # George Karanikolas
-### Mobile Developer & Software Engineer
+###  Android & KMP Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-seijind.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://seijind.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seijind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seijind/)
@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-**Android Developer** with 5+ years of experience delivering scalable, production-grade mobile applications. Based in **Thessaloniki, Greece**, I specialize in building high-performance and maintainable Android solutions using **Kotlin** and **Jetpack Compose**.
+** Android & KMP Engineer** with 5+ years of experience delivering scalable, production-grade mobile applications. Based in **Thessaloniki, Greece**, I specialize in building high-performance and maintainable Android solutions using **Kotlin** and **Jetpack Compose**.
 
 Currently contributing to **Arx.Net**, where I design and develop robust applications following **Clean Architecture** principles and modern patterns such as **MVVM** and **MVI**. I focus on delivering business value through scalable architectures, high-quality code, and user-centric mobile experiences.
 
