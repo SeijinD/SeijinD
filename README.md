@@ -22,9 +22,9 @@ Passionate about the evolving **Kotlin ecosystem**, I actively explore **Kotlin 
 ```kotlin
 val george = Developer(
     name     = "George Karanikolas",
-    role     = "Mobile Developer",
+    role     = "Android & KMP Engineer",
     location = "Thessaloniki, Greece",
-    focuses  = listOf("Jetpack Compose", "KMP", "Clean Architecture"),
+    focuses  = listOf("Kotlin", Jetpack Compose", "KMP", "Clean Architecture", "Ktor"),
     currentlyExploring = "Kotlin Multiplatform"
 )
 ```
