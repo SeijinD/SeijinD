@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-**Android & KMP Engineer** with 5+ years of experience delivering scalable, production-grade mobile applications. Based in **Thessaloniki, Greece**, I specialize in building high-performance and maintainable Android solutions using **Kotlin** and **Jetpack Compose**.
+**Android & KMP Engineer** with 6+ years of experience delivering scalable, production-grade mobile applications. Based in **Thessaloniki, Greece**, I specialize in building high-performance and maintainable Android solutions using **Kotlin** and **Jetpack Compose**.
 
 Currently contributing to **Arx.Net**, where I design and develop robust applications following **Clean Architecture** principles and modern patterns such as **MVVM** and **MVI**. I focus on delivering business value through scalable architectures, high-quality code, and user-centric mobile experiences.
 
