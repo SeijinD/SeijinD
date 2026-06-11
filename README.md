@@ -67,10 +67,11 @@ val george = Developer(
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**FlipToWin**](https://github.com/SeijinD/FlipToWin) | 🎮 High-performance Jetpack Compose library for "Flip to Win" style games with Clean Architecture & UDF | Kotlin 2.0 · Compose · Hilt · Coil 3 |
-| [**Preview Sandbox**](https://github.com/SeijinD/PreviewSandbox) | 🎨 Runtime configuration sandbox for Jetpack Compose UI environments | Kotlin · Jetpack Compose |
-| [**CM Free Rewards**](https://play.google.com/store/apps/details?id=eu.seijindemon.cmfreerewards) | 📱 Popular app with 1k+ organic installs for daily in-game rewards | Kotlin · Compose · UI/UX |
-| [**Salonika News**](https://github.com/SeijinD/Salonika-News) | 📰 Local news app with user auth and article submissions | Kotlin · Firebase · Navigation |
-| [**Weather MVVM**](https://github.com/SeijinD/Weather) | 🌤️ Clean architecture weather app consuming public REST API | Kotlin · MVVM · Retrofit2 · Coroutines |
+| [**PreviewSandbox**](https://github.com/SeijinD/PreviewSandbox) | 🎨 Runtime configuration sandbox for Jetpack Compose UI environments | Kotlin · Jetpack Compose |
+| [**StringSmith**](https://github.com/SeijinD/stringsmith) | 🔧 Android Studio plugin to extract hardcoded strings, detect duplicates, and flag unused resources — without leaving the editor | Kotlin · IntelliJ Platform · Android Studio |
+| [**KMPWebRoom**](https://github.com/SeijinD/KMPWebRoom) | 🌐 Room 3 database running in the browser via Kotlin/Wasm and SQLite OPFS persistent storage | KMP · Compose Multiplatform · Room 3 · Wasm |
+| [**Student IEE-IHU**](https://github.com/SeijinD/Student-IEE-IHU) | 🎓 Android app for student support at IEE-IHU, built as thesis project | Kotlin · Firebase · MVVM · Room |
+| [**CM Free Rewards**](https://play.google.com/store/apps/details?id=eu.seijindemon.cmfreerewards) | 📱 Popular app with 1k+ organic installs for daily in-game rewards | Kotlin · Compose · UI/UX 
 
 ---
 
